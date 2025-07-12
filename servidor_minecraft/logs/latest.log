@@ -252,3 +252,31 @@
 [03:46:47] [Server thread/INFO]: kiiki[/127.70.213.108:43391] logged in with entity id 26040 at ([world]423.5, 76.0, 1404.5)
 [03:48:10] [Server thread/INFO]: lobo3224 fell off a ladder
 [03:49:20] [Server thread/INFO]: lobo3224 was shot by Skeleton
+[03:53:35] [Server thread/INFO]: Santix15 issued server command: /tp kiiki Santix15
+[03:53:35] [Server thread/INFO]: [Santix15: Teleported kiiki to Santix15]
+[03:53:53] [Server thread/INFO]: lobo3224 was shot by Santix15
+[03:56:08] [Async Chat Thread - #9/INFO]: [Not Secure] <Santix15> zzzz
+[03:56:08] [Async Chat Thread - #9/INFO]: [Not Secure] <Santix15> zzzz
+[03:56:08] [Async Chat Thread - #9/INFO]: [Not Secure] <Santix15> zz
+[03:56:09] [Async Chat Thread - #9/INFO]: [Not Secure] <Santix15> zz
+[03:56:09] [Async Chat Thread - #9/INFO]: [Not Secure] <Santix15> z
+[03:56:09] [Async Chat Thread - #9/INFO]: [Not Secure] <Santix15> z
+[03:56:09] [Async Chat Thread - #9/INFO]: [Not Secure] <Santix15> z
+[03:56:09] [Async Chat Thread - #9/INFO]: [Not Secure] <Santix15> z
+[03:56:09] [Async Chat Thread - #9/INFO]: [Not Secure] <Santix15> z
+[03:56:09] [Async Chat Thread - #9/INFO]: [Not Secure] <Santix15> z
+[03:56:10] [Async Chat Thread - #9/INFO]: [Not Secure] <Santix15> z
+[03:56:10] [Async Chat Thread - #10/INFO]: [Not Secure] <Santix15> z
+[03:56:10] [Async Chat Thread - #10/INFO]: [Not Secure] <Santix15> z
+[03:59:29] [Server thread/INFO]: Santix15 issued server command: /tp kiiki Santix15
+[03:59:29] [Server thread/INFO]: [Santix15: Teleported kiiki to Santix15]
+[04:07:26] [Server thread/INFO]: lobo3224 issued server command: /skin emikukis
+[04:08:14] [Server thread/INFO]: lobo3224 issued server command: /skin starvtuberr
+[04:08:24] [Server thread/INFO]: kiiki has made the advancement [Isn't It Iron Pick]
+[04:08:26] [Server thread/INFO]: lobo3224 was shot by Santix15
+[04:08:48] [Server thread/INFO]: Santix15 issued server command: /tp lobo3224 Santix15
+[04:08:48] [Server thread/INFO]: [Santix15: Teleported lobo3224 to Santix15]
+[04:09:13] [Server thread/INFO]: lobo3224 was shot by Skeleton
+[04:10:05] [Server thread/INFO]: Santix15 issued server command: /op kiiki
+[04:10:09] [Server thread/INFO]: kiiki issued server command: /tp Santix15
+[04:10:09] [Server thread/INFO]: [kiiki: Teleported kiiki to Santix15]
