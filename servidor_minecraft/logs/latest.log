@@ -489,3 +489,14 @@
 [06:47:34] [Server thread/INFO]: lobo3224 has made the advancement [Enchanter]
 [07:03:35] [Server thread/INFO]: Santix15 issued server command: /weather thunder
 [07:03:35] [Server thread/INFO]: [Santix15: Set the weather to rain & thunder]
+[07:04:01] [Server thread/INFO]: lobo3224 issued server command: /tp Santix15
+[07:04:01] [Server thread/INFO]: [lobo3224: Teleported lobo3224 to Santix15]
+[07:05:02] [Server thread/INFO]: Santix15 issued server command: /tp lobo3224 Santix15
+[07:05:02] [Server thread/INFO]: [Santix15: Teleported lobo3224 to Santix15]
+[07:06:00] [Server thread/INFO]: Santix15 has made the advancement [Surge Protector]
+[07:11:22] [Server thread/INFO]: lobo3224 issued server command: /tp Santix15
+[07:11:22] [Server thread/INFO]: [lobo3224: Teleported lobo3224 to Santix15]
+[07:11:39] [Server thread/INFO]: lobo3224 has made the advancement [Surge Protector]
+[07:12:49] [Server thread/INFO]: lobo3224 issued server command: /experience add s
+[07:13:04] [Server thread/INFO]: lobo3224 issued server command: /experience add lobo3224 3 levels
+[07:13:04] [Server thread/INFO]: [lobo3224: Gave 3 experience levels to lobo3224]
