@@ -464,3 +464,12 @@
 [06:00:32] [Server thread/INFO]: kiiki issued server command: /tp santix kiiki
 [06:00:58] [Server thread/INFO]: kiiki issued server command: /gamemode creative
 [06:00:58] [Server thread/INFO]: [kiiki: Set own game mode to Creative Mode]
+[06:06:47] [Server thread/INFO]: kiiki issued server command: /gamemodeb
+[06:06:55] [Server thread/INFO]: kiiki issued server command: /gamemode survival
+[06:06:55] [Server thread/INFO]: [kiiki: Set own game mode to Survival Mode]
+[06:09:13] [Server thread/INFO]: kiiki issued server command: /tp kiiki lobo3224
+[06:09:13] [Server thread/INFO]: [kiiki: Teleported kiiki to lobo3224]
+[06:10:15] [Server thread/INFO]: lobo3224 issued server command: /tp kiiki Santix15
+[06:10:15] [Server thread/INFO]: [lobo3224: Teleported kiiki to Santix15]
+[06:13:00] [Server thread/INFO]: Santix15 issued server command: /give kiiki minecraft:diamond_axe
+[06:13:00] [Server thread/INFO]: [Santix15: Gave 1 [Diamond Axe] to kiiki]
