@@ -362,3 +362,21 @@
 [05:24:55] [Server thread/INFO]: lobo3224 burned to death
 [05:24:59] [Server thread/INFO]: kiiki issued server command: /tp santix15
 [05:24:59] [Server thread/INFO]: [kiiki: Teleported kiiki to Santix15]
+[05:34:57] [Server thread/INFO]: kiiki issued server command: /gamemode creative
+[05:34:57] [Server thread/INFO]: [kiiki: Set own game mode to Creative Mode]
+[05:35:43] [Server thread/INFO]: kiiki issued server command: /gamemode survival
+[05:35:43] [Server thread/INFO]: [kiiki: Set own game mode to Survival Mode]
+[05:37:00] [Server thread/INFO]: kiiki issued server command: /gamemode creative
+[05:37:00] [Server thread/INFO]: [kiiki: Set own game mode to Creative Mode]
+[05:38:09] [Server thread/INFO]: kiiki issued server command: /gamemode survival
+[05:38:09] [Server thread/INFO]: [kiiki: Set own game mode to Survival Mode]
+[05:39:33] [Server thread/INFO]: Santix15 has made the advancement [Those Were the Days]
+[05:40:31] [Server thread/INFO]: Santix15 has made the advancement [War Pigs]
+[05:41:27] [Server thread/INFO]: lobo3224 issued server command: /tp Santix15
+[05:41:27] [Server thread/INFO]: [lobo3224: Teleported lobo3224 to Santix15]
+[05:41:28] [Server thread/INFO]: lobo3224 has made the advancement [Those Were the Days]
+[05:42:26] [Server thread/INFO]: lobo3224 has made the advancement [War Pigs]
+[05:42:29] [Server thread/INFO]: lobo3224 was slain by Piglin Brute
+[05:42:36] [Server thread/INFO]: lobo3224 issued server command: /tp Santix15
+[05:42:36] [Server thread/INFO]: [lobo3224: Teleported lobo3224 to Santix15]
+[05:42:54] [Server thread/INFO]: lobo3224 has made the advancement [Hidden in the Depths]
