@@ -451,3 +451,16 @@
 [05:52:26] [Server thread/INFO]: lobo3224 tried to swim in lava to escape Skeleton
 [05:52:32] [Server thread/INFO]: lobo3224 issued server command: /tp Santix15
 [05:52:32] [Server thread/INFO]: [lobo3224: Teleported lobo3224 to Santix15]
+[05:53:49] [Server thread/INFO]: lobo3224 issued server command: /tp kiiki
+[05:53:49] [Server thread/INFO]: [lobo3224: Teleported lobo3224 to kiiki]
+[05:58:42] [Server thread/INFO]: kiiki issued server command: /tp kiiki santix15
+[05:58:42] [Server thread/INFO]: kiiki has made the advancement [We Need to Go Deeper]
+[05:58:42] [Server thread/INFO]: [kiiki: Teleported kiiki to Santix15]
+[05:58:50] [Server thread/INFO]: kiiki tried to swim in lava
+[05:59:25] [Server thread/INFO]: kiiki issued server command: /tp lobo3224
+[05:59:25] [Server thread/INFO]: [kiiki: Teleported kiiki to lobo3224]
+[06:00:27] [Server thread/INFO]: lobo3224 issued server command: /tp Santix15 lobo3224
+[06:00:27] [Server thread/INFO]: [lobo3224: Teleported Santix15 to lobo3224]
+[06:00:32] [Server thread/INFO]: kiiki issued server command: /tp santix kiiki
+[06:00:58] [Server thread/INFO]: kiiki issued server command: /gamemode creative
+[06:00:58] [Server thread/INFO]: [kiiki: Set own game mode to Creative Mode]
