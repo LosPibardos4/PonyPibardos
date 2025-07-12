@@ -473,3 +473,16 @@
 [06:10:15] [Server thread/INFO]: [lobo3224: Teleported kiiki to Santix15]
 [06:13:00] [Server thread/INFO]: Santix15 issued server command: /give kiiki minecraft:diamond_axe
 [06:13:00] [Server thread/INFO]: [Santix15: Gave 1 [Diamond Axe] to kiiki]
+[06:22:03] [Async Chat Thread - #13/INFO]: [Not Secure] <lobo3224> 7kill @e
+[06:22:09] [Async Chat Thread - #13/INFO]: [Not Secure] <Santix15> gaaaaay
+[06:22:38] [Async Chat Thread - #13/INFO]: [Not Secure] <lobo3224> 7give lobo3224 minecraft:netherite_block 64
+[06:24:01] [Async Chat Thread - #15/INFO]: [Not Secure] <lobo3224> 7give @e[ gamemode= !creative
+[06:24:58] [Server thread/INFO]: lobo3224 issued server command: /gamemode creative
+[06:24:58] [Server thread/INFO]: [lobo3224: Set own game mode to Creative Mode]
+[06:25:05] [Server thread/INFO]: lobo3224 issued server command: /gamemode survival
+[06:25:05] [Server thread/INFO]: [lobo3224: Set own game mode to Survival Mode]
+[06:26:47] [Server thread/INFO]: kiiki lost connection: Disconnected
+[06:26:47] [Server thread/INFO]: kiiki left the game
+[06:28:36] [Server thread/INFO]: lobo3224 tried to swim in lava
+[06:28:57] [Server thread/INFO]: lobo3224 issued server command: /experience add lobo3224 21 levels
+[06:28:57] [Server thread/INFO]: [lobo3224: Gave 21 experience levels to lobo3224]
