@@ -487,3 +487,5 @@
 [06:28:57] [Server thread/INFO]: lobo3224 issued server command: /experience add lobo3224 21 levels
 [06:28:57] [Server thread/INFO]: [lobo3224: Gave 21 experience levels to lobo3224]
 [06:47:34] [Server thread/INFO]: lobo3224 has made the advancement [Enchanter]
+[07:03:35] [Server thread/INFO]: Santix15 issued server command: /weather thunder
+[07:03:35] [Server thread/INFO]: [Santix15: Set the weather to rain & thunder]
