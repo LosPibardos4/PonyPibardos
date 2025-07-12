@@ -292,3 +292,10 @@
 [04:38:15] [Server thread/INFO]: [Santix15: Set the time to 1000]
 [04:40:01] [Server thread/INFO]: lobo3224 has made the advancement [The Parrots and the Bats]
 [04:40:47] [Server thread/INFO]: Santix15 has made the advancement [A Seedy Place]
+[04:45:53] [Server thread/INFO]: kiiki has made the advancement [Best Friends Forever]
+[04:48:41] [Server thread/INFO]: kiiki issued server command: /locate biome minecraft:cherry_grove
+[04:48:41] [Server thread/INFO]: Locating element minecraft:cherry_grove took 304 ms
+[04:50:30] [Server thread/INFO]: kiiki issued server command: /time set day
+[04:50:30] [Server thread/INFO]: [kiiki: Set the time to 1000]
+[04:50:53] [Server thread/INFO]: kiiki issued server command: /tp -1175 134 18511
+[04:50:53] [Server thread/INFO]: [kiiki: Teleported kiiki to -1174.500000, 134.000000, 18511.500000]
