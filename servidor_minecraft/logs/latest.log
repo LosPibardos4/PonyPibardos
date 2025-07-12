@@ -75,3 +75,7 @@
 [01:48:45] [Server thread/INFO]: [veltrop570: Set the time to 1000]
 [01:58:56] [Server thread/INFO]: veltrop570 issued server command: /time set day
 [01:58:56] [Server thread/INFO]: [veltrop570: Set the time to 1000]
+[02:00:05] [Server thread/INFO]: Santix15 issued server command: /seed
+[02:00:30] [Server thread/INFO]: veltrop570 issued server command: /seed
+[02:09:12] [Server thread/INFO]: veltrop570 issued server command: /time set day
+[02:09:12] [Server thread/INFO]: [veltrop570: Set the time to 1000]
