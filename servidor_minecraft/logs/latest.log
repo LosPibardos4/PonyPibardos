@@ -75,3 +75,7 @@
 [05:04:26] [User Authenticator #1/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [05:04:28] [Server thread/INFO]: Santix15 joined the game
 [05:04:28] [Server thread/INFO]: Santix15[/127.110.129.197:37819] logged in with entity id 3812 at ([world]-179.4078499417498, 70.0, 870.0757712739745)
+[05:17:40] [Server thread/INFO]: veltrop570 issued server command: /give veltrop570 minecraft:experience_bottle 200
+[05:17:41] [Server thread/INFO]: [veltrop570: Gave 200 [Bottle o' Enchanting] to veltrop570]
+[05:18:32] [Server thread/INFO]: Santix15 issued server command: /xp add veltrop570 12 levels
+[05:18:32] [Server thread/INFO]: [Santix15: Gave 12 experience levels to veltrop570]
