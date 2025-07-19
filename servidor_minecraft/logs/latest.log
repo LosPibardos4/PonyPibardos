@@ -240,3 +240,11 @@
 [07:04:40] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
 [07:04:40] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
 [07:09:02] [Server thread/INFO]: Santix15 issued server command: /difficulty hard
+[07:36:01] [Server thread/WARN]: Player Santix15 just tried to change non-editable sign
+[07:40:52] [Server thread/WARN]: Oak Boat (vehicle of Santix15) moved wrongly! 0.2810522466563157
+[07:40:52] [Server thread/WARN]: Oak Boat (vehicle of Santix15) moved wrongly! 0.4925499250193752
+[07:40:52] [Server thread/WARN]: Oak Boat (vehicle of Santix15) moved wrongly! 0.7716694628912251
+[07:40:52] [Server thread/WARN]: Oak Boat (vehicle of Santix15) moved wrongly! 1.0589575251912038
+[07:40:52] [Server thread/WARN]: Oak Boat (vehicle of Santix15) moved wrongly! 1.4286555699981136
+[07:40:52] [Server thread/WARN]: Oak Boat (vehicle of Santix15) moved wrongly! 1.656008114742633
+[07:40:52] [Server thread/WARN]: Oak Boat (vehicle of Santix15) moved wrongly! 1.9654170401356623
