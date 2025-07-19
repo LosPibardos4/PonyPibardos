@@ -248,3 +248,7 @@
 [07:40:52] [Server thread/WARN]: Oak Boat (vehicle of Santix15) moved wrongly! 1.4286555699981136
 [07:40:52] [Server thread/WARN]: Oak Boat (vehicle of Santix15) moved wrongly! 1.656008114742633
 [07:40:52] [Server thread/WARN]: Oak Boat (vehicle of Santix15) moved wrongly! 1.9654170401356623
+[07:51:39] [Server thread/INFO]: Santix15 issued server command: /give Santix15 minecraft:book
+[07:51:39] [Server thread/INFO]: [Santix15: Gave 1 [Book] to Santix15]
+[07:52:43] [Server thread/INFO]: Santix15 issued server command: /xp add Santix15 18 levels
+[07:52:43] [Server thread/INFO]: [Santix15: Gave 18 experience levels to Santix15]
