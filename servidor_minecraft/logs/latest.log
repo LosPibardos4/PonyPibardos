@@ -231,3 +231,9 @@
 [06:31:54] [Server thread/INFO]: veltrop570 lost connection: Disconnected
 [06:31:54] [Server thread/INFO]: veltrop570 left the game
 [06:31:55] [Async Chat Thread - #34/INFO]: [Not Secure] <Santix15> byee
+[06:35:51] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
+[06:35:51] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
+[06:39:58] [Server thread/INFO]: Santix15 issued server command: /give Santix15 minecraft:cobblestone 124
+[06:39:58] [Server thread/INFO]: [Santix15: Gave 124 [Cobblestone] to Santix15]
+[06:40:34] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
+[06:40:34] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
