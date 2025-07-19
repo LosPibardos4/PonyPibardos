@@ -127,3 +127,10 @@
 [05:31:14] [Server thread/INFO]: lobo3224 left the game
 [05:31:30] [Server thread/INFO]: Santix15 issued server command: /time set day
 [05:31:30] [Server thread/INFO]: [Santix15: Set the time to 1000]
+[05:31:57] [Async Chat Thread - #14/INFO]: [Not Secure] <Santix15> lidel que pasó con la call?
+[05:39:25] [Server thread/INFO]: Santix15 issued server command: /give Santix15 minecraft:lava_bucket
+[05:39:25] [Server thread/INFO]: [Santix15: Gave 1 [Lava Bucket] to Santix15]
+[05:41:24] [Server thread/INFO]: Santix15 issued server command: /time set day
+[05:41:24] [Server thread/INFO]: [Santix15: Set the time to 1000]
+[05:41:30] [Server thread/INFO]: Santix15 issued server command: /weather clear
+[05:41:30] [Server thread/INFO]: [Santix15: Set the weather to clear]
