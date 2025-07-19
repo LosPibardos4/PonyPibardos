@@ -134,3 +134,7 @@
 [05:41:24] [Server thread/INFO]: [Santix15: Set the time to 1000]
 [05:41:30] [Server thread/INFO]: Santix15 issued server command: /weather clear
 [05:41:30] [Server thread/INFO]: [Santix15: Set the weather to clear]
+[05:52:07] [Server thread/INFO]: veltrop570 issued server command: /time set day
+[05:52:07] [Server thread/INFO]: [veltrop570: Set the time to 1000]
+[05:52:11] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
+[05:52:11] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
