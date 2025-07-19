@@ -180,3 +180,31 @@
 [06:12:05] [Server thread/INFO]: [veltrop570: Gave 500 [Cobblestone] to Santix15]
 [06:12:12] [Async Chat Thread - #28/INFO]: [Not Secure] <Santix15> uuuuf
 [06:12:18] [Async Chat Thread - #28/INFO]: [Not Secure] <Santix15> grax
+[06:13:02] [Async Chat Thread - #28/INFO]: [Not Secure] <Santix15> agarrr
+[06:13:19] [Async Chat Thread - #28/INFO]: [Not Secure] <Santix15> vez el mapa?
+[06:13:37] [Server thread/INFO]: veltrop570 issued server command: /gamemode creative
+[06:13:37] [Server thread/INFO]: [veltrop570: Set own game mode to Creative Mode]
+[06:13:56] [Async Chat Thread - #28/INFO]: [Not Secure] <Santix15> en espectador vas mas rapid
+[06:14:18] [Server thread/INFO]: veltrop570 issued server command: /time set day
+[06:14:18] [Server thread/INFO]: [veltrop570: Set the time to 1000]
+[06:14:26] [Server thread/INFO]: veltrop570 issued server command: /gamemode spectator
+[06:14:26] [Server thread/INFO]: [veltrop570: Set own game mode to Spectator Mode]
+[06:16:16] [Server thread/INFO]: veltrop570 issued server command: /gamemode creative
+[06:16:16] [Server thread/INFO]: [veltrop570: Set own game mode to Creative Mode]
+[06:18:37] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
+[06:18:37] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
+[06:18:49] [Async Chat Thread - #30/INFO]: [Not Secure] <veltrop570> me perdi
+[06:19:00] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
+[06:19:00] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
+[06:19:06] [Async Chat Thread - #31/INFO]: [Not Secure] <Santix15> vamos
+[06:21:09] [Server thread/INFO]: Santix15 issued server command: /tp veltrop570 Santix15
+[06:21:09] [Server thread/INFO]: [Santix15: Teleported veltrop570 to Santix15]
+[06:21:14] [Async Chat Thread - #32/INFO]: [Not Secure] <Santix15> me pasas el mapa
+[06:21:21] [Server thread/INFO]: Santix15 issued server command: /tp veltrop570 Santix15
+[06:21:21] [Server thread/INFO]: [Santix15: Teleported veltrop570 to Santix15]
+[06:21:31] [Server thread/INFO]: Santix15 issued server command: /tp veltrop570 Santix15
+[06:21:31] [Server thread/INFO]: [Santix15: Teleported veltrop570 to Santix15]
+[06:21:51] [Server thread/INFO]: Santix15 issued server command: /tp veltrop570 Santix15
+[06:21:51] [Server thread/INFO]: [Santix15: Teleported veltrop570 to Santix15]
+[06:22:30] [Server thread/INFO]: veltrop570 issued server command: /gamemode survival
+[06:22:30] [Server thread/INFO]: [veltrop570: Set own game mode to Survival Mode]
