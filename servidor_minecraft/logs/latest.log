@@ -63,3 +63,5 @@
 [08:33:18] [User Authenticator #0/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [08:33:21] [Server thread/INFO]: Santix15 joined the game
 [08:33:21] [Server thread/INFO]: Santix15[/127.19.82.212:49097] logged in with entity id 22 at ([world]-952.425849872834, 182.0, -191.5820804456651)
+[08:46:31] [Server thread/INFO]: Santix15 issued server command: /give Santix15 minecraft:lapis_lazuli 50
+[08:46:31] [Server thread/INFO]: [Santix15: Gave 50 [Lapis Lazuli] to Santix15]
