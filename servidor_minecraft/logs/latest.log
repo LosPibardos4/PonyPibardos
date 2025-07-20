@@ -1,82 +1,65 @@
-[06:26:59] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[06:26:59] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) for Minecraft 1.21.4
-[06:26:59] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[06:27:00] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
-[06:27:03] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 3075ms.
-[06:27:03] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[06:27:03] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[08:32:31] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[08:32:31] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) for Minecraft 1.21.4
+[08:32:31] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[08:32:32] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[08:32:32] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - SkinsRestorer (15.7.7)
-[06:27:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[06:27:10] [ServerMain/INFO]: Loaded 1370 recipes
-[06:27:10] [ServerMain/INFO]: Loaded 1481 advancements
-[06:27:10] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[06:27:10] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 213.3ms
-[06:27:10] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[06:27:10] [Server thread/INFO]: Loading properties
-[06:27:10] [Server thread/INFO]: This server is running Paper version 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[06:27:10] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[06:27:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[06:27:10] [Server thread/INFO]: Using 4 threads for Netty based IO
-[06:27:11] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[06:27:11] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[06:27:11] [Server thread/INFO]: Default game type: SURVIVAL
-[06:27:11] [Server thread/INFO]: Generating keypair
-[06:27:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:27:12] [Server thread/INFO]: Using epoll channel type
-[06:27:12] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[06:27:12] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[06:27:12] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
-[06:27:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[06:27:12] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
-[06:27:13] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
-[06:27:13] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[06:27:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:27:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[06:27:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06:27:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:27:13] [Server thread/INFO]: Preparing level "world"
-[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
-[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
-[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[06:27:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[06:27:14] [Server thread/INFO]: Preparing spawn area: 0%
-[06:27:14] [Server thread/INFO]: Preparing spawn area: 55%
-[06:27:15] [Server thread/INFO]: Time elapsed: 837 ms
-[06:27:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[06:27:15] [Server thread/INFO]: Preparing spawn area: 0%
-[06:27:15] [Server thread/INFO]: Time elapsed: 210 ms
-[06:27:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[06:27:15] [Server thread/INFO]: Preparing spawn area: 0%
-[06:27:15] [Server thread/INFO]: Time elapsed: 118 ms
-[06:27:15] [Server thread/INFO]: [spark] Starting background profiler...
-[06:27:16] [Server thread/INFO]: Done preparing level "world" (2.066s)
-[06:27:16] [Server thread/INFO]: Running delayed init tasks
-[06:27:16] [Server thread/INFO]: Done (17.195s)! For help, type "help"
-[06:27:35] [User Authenticator #0/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
-[06:27:37] [Server thread/INFO]: Santix15 joined the game
-[06:27:38] [Server thread/INFO]: Santix15[/127.93.121.237:58237] logged in with entity id 22 at ([world]-185.57863968147203, 70.0, 868.7398775977601)
-[06:33:38] [User Authenticator #1/INFO]: UUID of player lobo3224 is b7e5eca9-5a00-3da7-ac51-8f51ef42decc
-[06:33:41] [Server thread/INFO]: lobo3224 joined the game
-[06:33:41] [Server thread/INFO]: lobo3224[/127.93.121.237:39629] logged in with entity id 1224 at ([world]-215.36525670330317, 35.0, 725.6897910665973)
-[06:55:40] [Server thread/INFO]: Santix15 lost connection: Timed out
-[06:55:40] [Server thread/INFO]: Santix15 left the game
-[06:56:32] [User Authenticator #2/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
-[06:56:33] [Server thread/INFO]: Santix15 joined the game
-[06:56:33] [Server thread/INFO]: Santix15[/127.93.121.237:33529] logged in with entity id 8941 at ([world]-234.98088068071883, 68.0, 419.5885996358669)
-[06:56:59] [Server thread/INFO]: lobo3224 has made the advancement [Total Beelocation]
-[07:01:11] [Server thread/INFO]: Santix15 has made the advancement [Wax On]
-[07:03:03] [Server thread/INFO]: lobo3224 has made the advancement [Wax On]
-[07:29:32] [Server thread/INFO]: lobo3224 lost connection: Disconnected
-[07:29:32] [Server thread/INFO]: lobo3224 left the game
-[07:30:44] [Server thread/INFO]: Santix15 lost connection: Disconnected
-[07:30:44] [Server thread/INFO]: Santix15 left the game
+[08:32:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08:32:39] [ServerMain/INFO]: Loaded 1370 recipes
+[08:32:39] [ServerMain/INFO]: Loaded 1481 advancements
+[08:32:39] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[08:32:40] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 204.8ms
+[08:32:40] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[08:32:40] [Server thread/INFO]: Loading properties
+[08:32:40] [Server thread/INFO]: This server is running Paper version 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[08:32:40] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[08:32:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:32:40] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:32:41] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[08:32:41] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[08:32:41] [Server thread/INFO]: Default game type: SURVIVAL
+[08:32:41] [Server thread/INFO]: Generating keypair
+[08:32:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:32:41] [Server thread/INFO]: Using epoll channel type
+[08:32:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[08:32:41] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[08:32:41] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
+[08:32:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:32:41] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
+[08:32:42] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[08:32:43] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[08:32:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:32:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:32:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:32:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:32:43] [Server thread/INFO]: Preparing level "world"
+[08:32:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[08:32:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[08:32:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[08:32:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[08:32:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[08:32:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[08:32:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[08:32:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
+[08:32:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
+[08:32:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[08:32:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[08:32:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[08:32:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[08:32:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:32:44] [Server thread/INFO]: Preparing spawn area: 0%
+[08:32:44] [Server thread/INFO]: Preparing spawn area: 2%
+[08:32:44] [Server thread/INFO]: Time elapsed: 984 ms
+[08:32:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[08:32:44] [Server thread/INFO]: Preparing spawn area: 0%
+[08:32:45] [Server thread/INFO]: Time elapsed: 242 ms
+[08:32:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[08:32:45] [Server thread/INFO]: Preparing spawn area: 0%
+[08:32:45] [Server thread/INFO]: Time elapsed: 168 ms
+[08:32:45] [Server thread/INFO]: [spark] Starting background profiler...
+[08:32:45] [Server thread/INFO]: Done preparing level "world" (2.383s)
+[08:32:45] [Server thread/INFO]: Running delayed init tasks
+[08:32:45] [Server thread/INFO]: Done (15.190s)! For help, type "help"
+[08:33:18] [User Authenticator #0/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[08:33:21] [Server thread/INFO]: Santix15 joined the game
+[08:33:21] [Server thread/INFO]: Santix15[/127.19.82.212:49097] logged in with entity id 22 at ([world]-952.425849872834, 182.0, -191.5820804456651)
