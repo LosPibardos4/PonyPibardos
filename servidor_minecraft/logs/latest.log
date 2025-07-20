@@ -1,292 +1,70 @@
-[04:41:10] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[04:41:10] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) for Minecraft 1.21.4
-[04:41:10] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[04:41:10] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[04:41:10] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
- - SkinsRestorer (15.7.6)
-[04:41:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:41:18] [ServerMain/INFO]: Loaded 1370 recipes
-[04:41:18] [ServerMain/INFO]: Loaded 1481 advancements
-[04:41:18] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[04:41:18] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 231.5ms
-[04:41:19] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[04:41:19] [Server thread/INFO]: Loading properties
-[04:41:19] [Server thread/INFO]: This server is running Paper version 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[04:41:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[04:41:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:41:19] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:41:20] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[04:41:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[04:41:20] [Server thread/INFO]: Default game type: SURVIVAL
-[04:41:20] [Server thread/INFO]: Generating keypair
-[04:41:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:41:20] [Server thread/INFO]: Using epoll channel type
-[04:41:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[04:41:20] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[04:41:20] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.6
-[04:41:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:41:20] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.6
-[04:41:21] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
-[04:41:22] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[04:41:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:41:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:41:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:41:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:41:22] [Server thread/INFO]: Preparing level "world"
-[04:41:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:41:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[04:41:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[04:41:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[04:41:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[04:41:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[04:41:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:41:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.6
-[04:41:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 9abea93
-[04:41:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     A new version (15.7.7) is available! Downloading update...
-[04:41:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:41:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[04:41:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[04:41:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
-[04:41:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 406ms
-[04:41:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
-[04:41:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
-[04:41:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:41:23] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:23] [Server thread/INFO]: Preparing spawn area: 2%
-[04:41:24] [Server thread/INFO]: Preparing spawn area: 73%
-[04:41:24] [Server thread/INFO]: Time elapsed: 1097 ms
-[04:41:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:41:24] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:24] [Server thread/INFO]: Time elapsed: 489 ms
-[04:41:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:41:24] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:24] [Server thread/INFO]: Time elapsed: 180 ms
-[04:41:25] [Server thread/INFO]: [spark] Starting background profiler...
-[04:41:26] [Server thread/INFO]: Done preparing level "world" (3.514s)
-[04:41:26] [Server thread/INFO]: Running delayed init tasks
-[04:41:26] [Server thread/INFO]: Done (16.680s)! For help, type "help"
-[04:41:40] [User Authenticator #0/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
-[04:41:45] [Server thread/INFO]: Santix15 joined the game
-[04:41:45] [Server thread/INFO]: Santix15[/127.249.153.64:38231] logged in with entity id 17 at ([world]-182.70459719092244, 70.0, 868.1846850926847)
-[04:42:16] [User Authenticator #0/INFO]: UUID of player lobo3224 is b7e5eca9-5a00-3da7-ac51-8f51ef42decc
-[04:42:18] [Server thread/INFO]: lobo3224 joined the game
-[04:42:18] [Server thread/INFO]: lobo3224[/127.172.165.202:41059] logged in with entity id 314 at ([world]-173.4763146612933, 25.0, 727.5535059178892)
-[04:42:40] [User Authenticator #0/INFO]: UUID of player veltrop570 is f7ecab27-30f6-34e8-b1b9-8b611eddf8e6
-[04:42:43] [Server thread/INFO]: veltrop570 joined the game
-[04:42:43] [Server thread/INFO]: veltrop570[/127.17.189.118:59205] logged in with entity id 481 at ([world]-163.5, 75.0, 769.5)
-[04:44:49] [Async Chat Thread - #0/INFO]: [Not Secure] <Santix15> loboooo
-[04:44:56] [Async Chat Thread - #0/INFO]: [Not Secure] <lobo3224> que
-[04:45:19] [Async Chat Thread - #0/INFO]: [Not Secure] <Santix15> tenes materiales que no vayas a usar?
-[04:45:31] [Async Chat Thread - #0/INFO]: [Not Secure] <lobo3224> en que sentido
-[04:47:14] [Server thread/INFO]: lobo3224 was shot by Santix15
-[04:47:23] [Async Chat Thread - #2/INFO]: [Not Secure] <lobo3224> hdp
-[04:47:27] [Async Chat Thread - #2/INFO]: [Not Secure] <lobo3224> mi Ep
-[04:47:27] [Async Chat Thread - #2/INFO]: [Not Secure] <Santix15> jajaja
-[04:47:58] [Async Chat Thread - #2/INFO]: [Not Secure] <Santix15> pedon =(
-[04:48:00] [Server thread/INFO]: lobo3224 was slain by Santix15
-[04:48:14] [Async Chat Thread - #2/INFO]: [Not Secure] <lobo3224> vete
-[04:48:22] [Async Chat Thread - #2/INFO]: [Not Secure] <Santix15> tenes bloques?
-[04:48:29] [Server thread/INFO]: veltrop570 lost connection: Timed out
-[04:48:29] [Server thread/INFO]: veltrop570 left the game
-[04:48:37] [Async Chat Thread - #2/INFO]: [Not Secure] <lobo3224> vete
-[04:48:44] [User Authenticator #1/INFO]: UUID of player veltrop570 is f7ecab27-30f6-34e8-b1b9-8b611eddf8e6
-[04:49:05] [Server thread/INFO]: veltrop570 joined the game
-[04:49:05] [Server thread/INFO]: veltrop570[/127.17.189.118:46679] logged in with entity id 2146 at ([world]-170.7526853543749, 74.08374141950112, 771.427252055558)
-[04:49:14] [Async Chat Thread - #2/INFO]: [Not Secure] <lobo3224> tenia 27 niveles :(
-[04:51:28] [Server thread/INFO]: lobo3224 was slain by Santix15
-[04:51:36] [Async Chat Thread - #4/INFO]: [Not Secure] <lobo3224> vete te dije
-[04:51:44] [Async Chat Thread - #4/INFO]: [Not Secure] <Santix15> ya me fui
-[04:52:03] [Async Chat Thread - #4/INFO]: [Not Secure] <lobo3224> te llevaste lo que estaba por usar
-[04:52:11] [Async Chat Thread - #4/INFO]: [Not Secure] <lobo3224> que paso
-[04:52:19] [Server thread/INFO]: lobo3224 was slain by veltrop570 using [la baja tangas]
-[04:52:33] [Async Chat Thread - #4/INFO]: [Not Secure] <Santix15> es para un bien mayor
-[04:52:46] [Async Chat Thread - #4/INFO]: [Not Secure] <lobo3224> me quitaste mi XP
-[04:53:01] [Server thread/INFO]: Santix15 issued server command: /xp add lobo3224 32 levels
-[04:53:01] [Server thread/INFO]: [Santix15: Gave 32 experience levels to lobo3224]
-[04:53:03] [Async Chat Thread - #4/INFO]: [Not Secure] <veltrop570> pero fuiste victima de la baja tangas
-[04:53:19] [Async Chat Thread - #4/INFO]: [Not Secure] <lobo3224> pinche valen
-[04:56:11] [Async Chat Thread - #6/INFO]: [Not Secure] <Santix15> loboo
-[04:56:42] [Async Chat Thread - #6/INFO]: [Not Secure] <Santix15> te va a gustar lo que voy a hacer con tus bloques
-[05:09:09] [Async Chat Thread - #8/INFO]: [Not Secure] <Santix15> lobo?
-[05:11:18] [Async Chat Thread - #10/INFO]: [Not Secure] <Santix15> que estas buscando?
-[05:11:30] [Async Chat Thread - #10/INFO]: [Not Secure] <lobo3224> saqueo III
-[05:11:39] [Async Chat Thread - #10/INFO]: [Not Secure] <Santix15> yo no tengo saqueo 3
-[05:13:07] [Server thread/INFO]: veltrop570 lost connection: Timed out
-[05:13:07] [Server thread/INFO]: veltrop570 left the game
-[05:13:31] [User Authenticator #2/INFO]: UUID of player veltrop570 is f7ecab27-30f6-34e8-b1b9-8b611eddf8e6
-[05:13:41] [Server thread/INFO]: veltrop570 joined the game
-[05:13:41] [Server thread/INFO]: veltrop570[/127.17.189.118:54045] logged in with entity id 7231 at ([world]-146.72867182987744, 63.0, 828.0749999880791)
-[05:14:38] [Async Chat Thread - #12/INFO]: [Not Secure] <lobo3224> y el yunque
-[05:14:40] [Async Chat Thread - #12/INFO]: [Not Secure] <lobo3224> ?
-[05:14:49] [Async Chat Thread - #12/INFO]: [Not Secure] <veltrop570> sec
-[05:14:57] [Async Chat Thread - #12/INFO]: [Not Secure] <veltrop570> se rompio
-[05:15:05] [Async Chat Thread - #12/INFO]: [Not Secure] <lobo3224> a
-[05:23:13] [Server thread/INFO]: Santix15 issued server command: /locate biome minecraft:ocean
-[05:23:13] [Server thread/INFO]: Locating element minecraft:ocean took 135 ms
-[05:31:14] [Server thread/INFO]: lobo3224 lost connection: Disconnected
-[05:31:14] [Server thread/INFO]: lobo3224 left the game
-[05:31:30] [Server thread/INFO]: Santix15 issued server command: /time set day
-[05:31:30] [Server thread/INFO]: [Santix15: Set the time to 1000]
-[05:31:57] [Async Chat Thread - #14/INFO]: [Not Secure] <Santix15> lidel que pasó con la call?
-[05:39:25] [Server thread/INFO]: Santix15 issued server command: /give Santix15 minecraft:lava_bucket
-[05:39:25] [Server thread/INFO]: [Santix15: Gave 1 [Lava Bucket] to Santix15]
-[05:41:24] [Server thread/INFO]: Santix15 issued server command: /time set day
-[05:41:24] [Server thread/INFO]: [Santix15: Set the time to 1000]
-[05:41:30] [Server thread/INFO]: Santix15 issued server command: /weather clear
-[05:41:30] [Server thread/INFO]: [Santix15: Set the weather to clear]
-[05:52:07] [Server thread/INFO]: veltrop570 issued server command: /time set day
-[05:52:07] [Server thread/INFO]: [veltrop570: Set the time to 1000]
-[05:52:11] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
-[05:52:11] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
-[05:52:34] [Async Chat Thread - #16/INFO]: [Not Secure] <Santix15> =)
-[05:52:38] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
-[05:52:38] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
-[05:52:51] [Async Chat Thread - #16/INFO]: [Not Secure] <Santix15> te paso cordes?
-[05:53:06] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
-[05:53:06] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
-[05:53:25] [Async Chat Thread - #16/INFO]: [Not Secure] <Santix15> =)
-[05:55:35] [Async Chat Thread - #18/INFO]: [Not Secure] <Santix15> ahora como te volves para la casa
-[05:56:55] [Async Chat Thread - #20/INFO]: [Not Secure] <Santix15> me ayudas?
-[05:57:25] [Async Chat Thread - #20/INFO]: [Not Secure] <veltrop570> mirame
-[05:57:35] [Async Chat Thread - #20/INFO]: [Not Secure] <Santix15> te miro
-[05:57:43] [Async Chat Thread - #20/INFO]: [Not Secure] <veltrop570> no
-[05:57:55] [Async Chat Thread - #20/INFO]: [Not Secure] <Santix15> uyuyuyu
-[05:58:03] [Async Chat Thread - #20/INFO]: [Not Secure] <Santix15> waterdrop?
-[05:58:05] [Server thread/INFO]: veltrop570 issued server command: /gamemode creative
-[05:58:05] [Server thread/INFO]: [veltrop570: Set own game mode to Creative Mode]
-[05:58:15] [Async Chat Thread - #20/INFO]: [Not Secure] <veltrop570> yets
-[05:59:34] [Server thread/INFO]: veltrop570 issued server command: /gamemode survival
-[05:59:34] [Server thread/INFO]: [veltrop570: Set own game mode to Survival Mode]
-[06:00:38] [Async Chat Thread - #22/INFO]: [Not Secure] <Santix15> cualquier cosa, para nada me caí. Solo bajé a buscar los bloques que se me cayeron
-[06:00:53] [Async Chat Thread - #22/INFO]: [Not Secure] <veltrop570> jajajajajajajajaja ok
-[06:01:30] [Async Chat Thread - #22/INFO]: [Not Secure] <Santix15> me la pegué sabroson
-[06:03:51] [Async Chat Thread - #24/INFO]: [Not Secure] <Santix15> que pasó con la llamada?
-[06:04:01] [Server thread/INFO]: Santix15 issued server command: /time set day
-[06:04:01] [Server thread/INFO]: [Santix15: Set the time to 1000]
-[06:05:07] [Async Chat Thread - #27/INFO]: [Not Secure] <Santix15> adolf
-[06:05:17] [Async Chat Thread - #27/INFO]: [Not Secure] <veltrop570> hotler
-[06:05:18] [Async Chat Thread - #27/INFO]: [Not Secure] <Santix15> digo digo
-[06:05:22] [Async Chat Thread - #27/INFO]: [Not Secure] <Santix15> lidel
-[06:05:37] [Async Chat Thread - #27/INFO]: [Not Secure] <Santix15> me consigue más piedra
-[06:06:19] [Async Chat Thread - #27/INFO]: [Not Secure] <Santix15> pero piedra
-[06:06:29] [Async Chat Thread - #27/INFO]: [Not Secure] <Santix15> no algo que te pega como la piedra
-[06:06:49] [Server thread/INFO]: veltrop570 issued server command: /give Santix15 stone 128
-[06:06:49] [Server thread/INFO]: [veltrop570: Gave 128 [Stone] to Santix15]
-[06:07:23] [Async Chat Thread - #27/INFO]: [Not Secure] <Santix15> pero yo me refería a cobblestone, no piedra refinada
-[06:11:08] [Async Chat Thread - #28/INFO]: [Not Secure] <veltrop570> para donde estaba la aldea?????
-[06:11:30] [Async Chat Thread - #28/INFO]: [Not Secure] <Santix15> conseguime la cobblestone y te digo
-[06:11:32] [Async Chat Thread - #28/INFO]: [Not Secure] <Santix15> =)
-[06:12:05] [Server thread/INFO]: veltrop570 issued server command: /give Santix15 minecraft:cobblestone 500
-[06:12:05] [Server thread/INFO]: [veltrop570: Gave 500 [Cobblestone] to Santix15]
-[06:12:12] [Async Chat Thread - #28/INFO]: [Not Secure] <Santix15> uuuuf
-[06:12:18] [Async Chat Thread - #28/INFO]: [Not Secure] <Santix15> grax
-[06:13:02] [Async Chat Thread - #28/INFO]: [Not Secure] <Santix15> agarrr
-[06:13:19] [Async Chat Thread - #28/INFO]: [Not Secure] <Santix15> vez el mapa?
-[06:13:37] [Server thread/INFO]: veltrop570 issued server command: /gamemode creative
-[06:13:37] [Server thread/INFO]: [veltrop570: Set own game mode to Creative Mode]
-[06:13:56] [Async Chat Thread - #28/INFO]: [Not Secure] <Santix15> en espectador vas mas rapid
-[06:14:18] [Server thread/INFO]: veltrop570 issued server command: /time set day
-[06:14:18] [Server thread/INFO]: [veltrop570: Set the time to 1000]
-[06:14:26] [Server thread/INFO]: veltrop570 issued server command: /gamemode spectator
-[06:14:26] [Server thread/INFO]: [veltrop570: Set own game mode to Spectator Mode]
-[06:16:16] [Server thread/INFO]: veltrop570 issued server command: /gamemode creative
-[06:16:16] [Server thread/INFO]: [veltrop570: Set own game mode to Creative Mode]
-[06:18:37] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
-[06:18:37] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
-[06:18:49] [Async Chat Thread - #30/INFO]: [Not Secure] <veltrop570> me perdi
-[06:19:00] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
-[06:19:00] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
-[06:19:06] [Async Chat Thread - #31/INFO]: [Not Secure] <Santix15> vamos
-[06:21:09] [Server thread/INFO]: Santix15 issued server command: /tp veltrop570 Santix15
-[06:21:09] [Server thread/INFO]: [Santix15: Teleported veltrop570 to Santix15]
-[06:21:14] [Async Chat Thread - #32/INFO]: [Not Secure] <Santix15> me pasas el mapa
-[06:21:21] [Server thread/INFO]: Santix15 issued server command: /tp veltrop570 Santix15
-[06:21:21] [Server thread/INFO]: [Santix15: Teleported veltrop570 to Santix15]
-[06:21:31] [Server thread/INFO]: Santix15 issued server command: /tp veltrop570 Santix15
-[06:21:31] [Server thread/INFO]: [Santix15: Teleported veltrop570 to Santix15]
-[06:21:51] [Server thread/INFO]: Santix15 issued server command: /tp veltrop570 Santix15
-[06:21:51] [Server thread/INFO]: [Santix15: Teleported veltrop570 to Santix15]
-[06:22:30] [Server thread/INFO]: veltrop570 issued server command: /gamemode survival
-[06:22:30] [Server thread/INFO]: [veltrop570: Set own game mode to Survival Mode]
-[06:28:59] [Async Chat Thread - #34/INFO]: [Not Secure] <Santix15> hyper eficiente esto
-[06:29:53] [Async Chat Thread - #34/INFO]: [Not Secure] <veltrop570> amigo
-[06:30:01] [Async Chat Thread - #34/INFO]: [Not Secure] <veltrop570> me tengo que irrr
-[06:30:11] [Async Chat Thread - #34/INFO]: [Not Secure] <Santix15> noooo
-[06:30:30] [Async Chat Thread - #34/INFO]: [Not Secure] <Santix15> como que tenes que irte....
-[06:30:39] [Async Chat Thread - #34/INFO]: [Not Secure] <Santix15> si resien te vi llegar
-[06:30:40] [Async Chat Thread - #34/INFO]: [Not Secure] <veltrop570> me teno que ir a mimir
-[06:30:57] [Async Chat Thread - #34/INFO]: [Not Secure] <veltrop570> mañana jugamos
-[06:31:03] [Async Chat Thread - #34/INFO]: [Not Secure] <veltrop570> dormi bien
-[06:31:05] [Async Chat Thread - #34/INFO]: [Not Secure] <Santix15> buenooo
-[06:31:09] [Async Chat Thread - #34/INFO]: [Not Secure] <Santix15> igualmente
-[06:31:14] [Async Chat Thread - #34/INFO]: [Not Secure] <veltrop570> buenas noches
-[06:31:21] [Async Chat Thread - #34/INFO]: [Not Secure] <Santix15> dormi sabroso
-[06:31:29] [Async Chat Thread - #34/INFO]: [Not Secure] <Santix15> igualmentee
-[06:31:32] [Async Chat Thread - #34/INFO]: [Not Secure] <veltrop570> uwu
-[06:31:36] [Async Chat Thread - #34/INFO]: [Not Secure] <veltrop570> nooo
-[06:31:39] [Async Chat Thread - #34/INFO]: [Not Secure] <Santix15> nos vemos mas tarde
-[06:31:42] [Async Chat Thread - #34/INFO]: [Not Secure] <veltrop570> re cringe
-[06:31:47] [Async Chat Thread - #34/INFO]: [Not Secure] <Santix15> jaja sii
-[06:31:48] [Async Chat Thread - #34/INFO]: [Not Secure] <veltrop570> adios
-[06:31:54] [Server thread/INFO]: veltrop570 lost connection: Disconnected
-[06:31:54] [Server thread/INFO]: veltrop570 left the game
-[06:31:55] [Async Chat Thread - #34/INFO]: [Not Secure] <Santix15> byee
-[06:35:51] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
-[06:35:51] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
-[06:39:58] [Server thread/INFO]: Santix15 issued server command: /give Santix15 minecraft:cobblestone 124
-[06:39:58] [Server thread/INFO]: [Santix15: Gave 124 [Cobblestone] to Santix15]
-[06:40:34] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
-[06:40:34] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
-[07:04:40] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
-[07:04:40] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
-[07:09:02] [Server thread/INFO]: Santix15 issued server command: /difficulty hard
-[07:36:01] [Server thread/WARN]: Player Santix15 just tried to change non-editable sign
-[07:40:52] [Server thread/WARN]: Oak Boat (vehicle of Santix15) moved wrongly! 0.2810522466563157
-[07:40:52] [Server thread/WARN]: Oak Boat (vehicle of Santix15) moved wrongly! 0.4925499250193752
-[07:40:52] [Server thread/WARN]: Oak Boat (vehicle of Santix15) moved wrongly! 0.7716694628912251
-[07:40:52] [Server thread/WARN]: Oak Boat (vehicle of Santix15) moved wrongly! 1.0589575251912038
-[07:40:52] [Server thread/WARN]: Oak Boat (vehicle of Santix15) moved wrongly! 1.4286555699981136
-[07:40:52] [Server thread/WARN]: Oak Boat (vehicle of Santix15) moved wrongly! 1.656008114742633
-[07:40:52] [Server thread/WARN]: Oak Boat (vehicle of Santix15) moved wrongly! 1.9654170401356623
-[07:51:39] [Server thread/INFO]: Santix15 issued server command: /give Santix15 minecraft:book
-[07:51:39] [Server thread/INFO]: [Santix15: Gave 1 [Book] to Santix15]
-[07:52:43] [Server thread/INFO]: Santix15 issued server command: /xp add Santix15 18 levels
-[07:52:43] [Server thread/INFO]: [Santix15: Gave 18 experience levels to Santix15]
-[07:58:30] [Server thread/INFO]: Santix15 issued server command: /xp add Santix15 15 levels
-[07:58:30] [Server thread/INFO]: [Santix15: Gave 15 experience levels to Santix15]
-[08:03:44] [Server thread/INFO]: Santix15 lost connection: Disconnected
-[08:03:44] [Server thread/INFO]: Santix15 left the game
-[08:03:56] [Server thread/INFO]: Stopping the server
-[08:03:56] [Server thread/INFO]: Stopping server
-[08:03:56] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.6
-[08:03:56] [Server thread/INFO]: Saving players
-[08:03:56] [Server thread/INFO]: Saving worlds
-[08:03:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:03:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[08:03:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[08:03:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[08:03:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 7 entity chunks, 0 poi chunks in world 'world' in 0.02s
-[08:03:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[08:03:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[08:03:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[08:03:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[08:03:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[08:03:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[08:03:56] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 63 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
-[08:03:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[08:03:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[08:03:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[08:03:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[08:03:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[08:03:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[08:03:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[08:03:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[08:03:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[08:03:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:03:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:03:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:03:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[08:03:56] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[08:03:56] [Server thread/INFO]: All I/O tasks to complete
-[08:03:56] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[08:03:56] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[06:26:59] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[06:26:59] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) for Minecraft 1.21.4
+[06:26:59] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[06:27:00] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[06:27:03] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 3075ms.
+[06:27:03] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[06:27:03] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - SkinsRestorer (15.7.7)
+[06:27:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:27:10] [ServerMain/INFO]: Loaded 1370 recipes
+[06:27:10] [ServerMain/INFO]: Loaded 1481 advancements
+[06:27:10] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[06:27:10] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 213.3ms
+[06:27:10] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[06:27:10] [Server thread/INFO]: Loading properties
+[06:27:10] [Server thread/INFO]: This server is running Paper version 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[06:27:10] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[06:27:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[06:27:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[06:27:11] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[06:27:11] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[06:27:11] [Server thread/INFO]: Default game type: SURVIVAL
+[06:27:11] [Server thread/INFO]: Generating keypair
+[06:27:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:27:12] [Server thread/INFO]: Using epoll channel type
+[06:27:12] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[06:27:12] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[06:27:12] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
+[06:27:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:27:12] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
+[06:27:13] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[06:27:13] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[06:27:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:27:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:27:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:27:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:27:13] [Server thread/INFO]: Preparing level "world"
+[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
+[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
+[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[06:27:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[06:27:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:27:14] [Server thread/INFO]: Preparing spawn area: 0%
+[06:27:14] [Server thread/INFO]: Preparing spawn area: 55%
+[06:27:15] [Server thread/INFO]: Time elapsed: 837 ms
+[06:27:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[06:27:15] [Server thread/INFO]: Preparing spawn area: 0%
+[06:27:15] [Server thread/INFO]: Time elapsed: 210 ms
+[06:27:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[06:27:15] [Server thread/INFO]: Preparing spawn area: 0%
+[06:27:15] [Server thread/INFO]: Time elapsed: 118 ms
+[06:27:15] [Server thread/INFO]: [spark] Starting background profiler...
+[06:27:16] [Server thread/INFO]: Done preparing level "world" (2.066s)
+[06:27:16] [Server thread/INFO]: Running delayed init tasks
+[06:27:16] [Server thread/INFO]: Done (17.195s)! For help, type "help"
+[06:27:35] [User Authenticator #0/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[06:27:37] [Server thread/INFO]: Santix15 joined the game
+[06:27:38] [Server thread/INFO]: Santix15[/127.93.121.237:58237] logged in with entity id 22 at ([world]-185.57863968147203, 70.0, 868.7398775977601)
+[06:33:38] [User Authenticator #1/INFO]: UUID of player lobo3224 is b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[06:33:41] [Server thread/INFO]: lobo3224 joined the game
+[06:33:41] [Server thread/INFO]: lobo3224[/127.93.121.237:39629] logged in with entity id 1224 at ([world]-215.36525670330317, 35.0, 725.6897910665973)
